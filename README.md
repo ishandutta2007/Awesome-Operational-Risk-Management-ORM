@@ -74,74 +74,74 @@ The table below outlines leading enterprise SaaS platforms for Operational Risk 
 
 Open-source operational risk management solutions allow organizations to build sovereign, auditable risk infrastructure without recurring per-seat licensing penalties or proprietary data lock-in. 
 
-The projects below are sorted in descending order by **GitHub Star Count** ⭐.
+The projects below are sorted in descending order by **GitHub Stars_Count** ⭐.
 
-### 1. [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) [![GitHub stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers)
+### 1. [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) [![GitHub_Stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers)
 - **License**: AGPL-3.0 | **Stack**: Python (Django), Vue.js, PostgreSQL, Docker
 - **Focus**: Enterprise GRC, Risk Register, Framework Cross-Mapping & Automated Evidence
 - **Overview**: An all-in-one open-source GRC platform covering operational risk management, Business Impact Analysis (BIA), Third-Party Risk Management (TPRM), privacy (GDPR/DPIA), and internal audits. Ships with pre-loaded crosswalks for 200+ global frameworks (ISO 27001, NIST CSF, DORA, NIS2, SOC 2, PCI DSS) and integrates with n8n, Kafka, and Model Context Protocol (MCP) tools for AI agents.
 
-### 2. [strongdm/comply](https://github.com/strongdm/comply) [![GitHub stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers)
+### 2. [strongdm/comply](https://github.com/strongdm/comply) [![GitHub_Stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers)
 - **License**: Apache-2.0 | **Stack**: Go, Markdown
 - **Focus**: SOC 2 Compliance Automation, Policy-as-Code & Operational Control Audits
 - **Overview**: A developer-centric compliance and operational control orchestration CLI. Enables engineering teams to maintain compliance policies, procedure playbooks, and control verification checklists directly within Git version control. Automates policy ticketing and audit evidence gathering for SOC 2 and ISO 27001.
 
-### 3. [getprobo/probo](https://github.com/getprobo/probo) [![GitHub stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)
+### 3. [getprobo/probo](https://github.com/getprobo/probo) [![GitHub_Stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers)
 - **License**: ISC | **Stack**: Go, TypeScript, GraphQL, Docker
 - **Focus**: Full-Lifecycle GRC, Risk Scoring & AI MCP Automation
 - **Overview**: A modern, self-hostable GRC suite with a comprehensive risk register supporting inherent and residual risk scoring, risk treatment decisions (Mitigate, Accept, Avoid, Transfer), control maturity tracking, vendor risk, and access reviews. Features 270+ native Model Context Protocol (MCP) tools for autonomous AI agent compliance tasks and a dedicated `prb` CLI.
 
-### 4. [bmarsh9/gapps](https://github.com/bmarsh9/gapps) [![GitHub stars](https://img.shields.io/github/stars/bmarsh9/gapps?style=social&color=white)](https://github.com/bmarsh9/gapps/stargazers)
+### 4. [bmarsh9/gapps](https://github.com/bmarsh9/gapps) [![GitHub_Stars](https://img.shields.io/github/stars/bmarsh9/gapps?style=social&color=white)](https://github.com/bmarsh9/gapps/stargazers)
 - **License**: GPL-3.0 | **Stack**: PHP, MySQL, Bootstrap
 - **Focus**: Multi-Framework Security Compliance & Control Assessment Tracker
 - **Overview**: Web-based compliance and risk management management portal supporting SOC 2, CMMC, ASVS, ISO 27001, HIPAA, NIST CSF, and NIST 800-53. Facilitates internal control reviews, maturity ratings, gap analyses, and compliance roadmap generation for growing security organizations.
 
-### 5. [sourcentis/deming](https://github.com/sourcentis/deming) [![GitHub stars](https://img.shields.io/github/stars/sourcentis/deming?style=social&color=white)](https://github.com/sourcentis/deming/stargazers)
+### 5. [sourcentis/deming](https://github.com/sourcentis/deming) [![GitHub_Stars](https://img.shields.io/github/stars/sourcentis/deming?style=social&color=white)](https://github.com/sourcentis/deming/stargazers)
 - **License**: AGPL-3.0 | **Stack**: Python, Django, PostgreSQL
 - **Focus**: Information Security Management System (ISMS) & Risk Assessment
 - **Overview**: A dedicated management tool for operational and information security management systems following the Deming PDCA (Plan-Do-Check-Act) cycle. Provides asset identification, risk assessment matrices, Statement of Applicability (SoA) tracking, and continuous control oversight.
 
-### 6. [theopenlane/core](https://github.com/theopenlane/core) [![GitHub stars](https://img.shields.io/github/stars/theopenlane/core?style=social&color=white)](https://github.com/theopenlane/core/stargazers)
+### 6. [theopenlane/core](https://github.com/theopenlane/core) [![GitHub_Stars](https://img.shields.io/github/stars/theopenlane/core?style=social&color=white)](https://github.com/theopenlane/core/stargazers)
 - **License**: Apache-2.0 | **Stack**: Go, GraphQL, Ent, PostgreSQL
 - **Focus**: Modern Cloud-Native Compliance & Risk Automation Engine
 - **Overview**: An open-source, developer-friendly compliance automation backend designed for modern SaaS organizations. Automates evidence collection, control verification, and audit readiness across SOC 2, ISO 27001, GDPR, and NIST 800-53 with fine-grained role-based access control and immutable audit trails.
 
-### 7. [GovReady/govready-q](https://github.com/GovReady/govready-q) [![GitHub stars](https://img.shields.io/github/stars/GovReady/govready-q?style=social&color=white)](https://github.com/GovReady/govready-q/stargazers)
+### 7. [GovReady/govready-q](https://github.com/GovReady/govready-q) [![GitHub_Stars](https://img.shields.io/github/stars/GovReady/govready-q?style=social&color=white)](https://github.com/GovReady/govready-q/stargazers)
 - **License**: GNU AGPL-3.0 | **Stack**: Python (Django), Vue.js, PostgreSQL
 - **Focus**: Self-Service GRC & Automated System Security Plans (SSP)
 - **Overview**: Self-service compliance toolkit that turns complex regulatory standards (NIST SP 800-53, FedRAMP, FISMA) into interactive questionnaires. Automatically generates audit-ready System Security Plans (SSPs) and risk assessments for DevSecOps and cloud deployments.
 
-### 8. [grcengineering/gigachad-grc](https://github.com/grcengineering/gigachad-grc) [![GitHub stars](https://img.shields.io/github/stars/grcengineering/gigachad-grc?style=social&color=white)](https://github.com/grcengineering/gigachad-grc/stargazers)
+### 8. [grcengineering/gigachad-grc](https://github.com/grcengineering/gigachad-grc) [![GitHub_Stars](https://img.shields.io/github/stars/grcengineering/gigachad-grc?style=social&color=white)](https://github.com/grcengineering/gigachad-grc/stargazers)
 - **License**: MIT | **Stack**: TypeScript, Next.js, Node.js, Prisma, PostgreSQL
 - **Focus**: Containerized GRC Platform, Risk Registers & Vendor Assessments
 - **Overview**: Modern, lightweight GRC portal engineered for fast-moving engineering and security organizations. Features streamlined risk registers, third-party vendor assessments, control mappings for SOC 2 and ISO 27001, and role-based audit dashboards with minimal deployment overhead.
 
-### 9. [LeeMangold/OpenGRC](https://github.com/LeeMangold/OpenGRC) [![GitHub stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC/stargazers)
+### 9. [LeeMangold/OpenGRC](https://github.com/LeeMangold/OpenGRC) [![GitHub_Stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC/stargazers)
 - **License**: GPL-3.0 | **Stack**: PHP, MySQL, Apache
 - **Focus**: Self-Hosted Operational Risk, Controls & Incident Management
 - **Overview**: Purpose-built self-hosted GRC platform designed for small-to-midsize enterprises. Features risk documentation, internal control libraries, audit schedule tracking, vendor risk scorecards, and incident response logging tailored for ISO 27001, NIST CSF, and HIPAA.
 
-### 10. [monarc-project/MonarcAppFO](https://github.com/monarc-project/MonarcAppFO) [![GitHub stars](https://img.shields.io/github/stars/monarc-project/MonarcAppFO?style=social&color=white)](https://github.com/monarc-project/MonarcAppFO/stargazers)
+### 10. [monarc-project/MonarcAppFO](https://github.com/monarc-project/MonarcAppFO) [![GitHub_Stars](https://img.shields.io/github/stars/monarc-project/MonarcAppFO?style=social&color=white)](https://github.com/monarc-project/MonarcAppFO/stargazers)
 - **License**: AGPL-3.0 | **Stack**: PHP, AngularJS, Python, MariaDB, Docker
 - **Focus**: ISO/IEC 27005 Context-Based Operational & Information Risk Analysis
 - **Overview**: Risk assessment methodology and software developed by CASES Luxembourg. Enables structured assessment of operational and cyber risks through reusable risk models. Connects to the MONARC Objects Sharing Platform (MOSP) to share threat catalogs, vulnerabilities, and control templates across industry peers.
 
-### 11. [simplerisk/code](https://github.com/simplerisk/code) [![GitHub stars](https://img.shields.io/github/stars/simplerisk/code?style=social&color=white)](https://github.com/simplerisk/code/stargazers)
+### 11. [simplerisk/code](https://github.com/simplerisk/code) [![GitHub_Stars](https://img.shields.io/github/stars/simplerisk/code?style=social&color=white)](https://github.com/simplerisk/code/stargazers)
 - **License**: AGPL-3.0 | **Stack**: PHP, MySQL, Docker
 - **Focus**: Classic Operational & IT Risk Management Platform
 - **Overview**: One of the most widely deployed open-source enterprise risk management applications. Provides dynamic risk registers, scoring via classic (Likelihood x Impact) and CVSS methodologies, risk mitigation planning, control testing, and compliance framework tracking with containerized Docker deployment.
 
-### 12. [frousselet/cairn](https://github.com/frousselet/cairn) [![GitHub stars](https://img.shields.io/github/stars/frousselet/cairn?style=social&color=white)](https://github.com/frousselet/cairn/stargazers)
+### 12. [frousselet/cairn](https://github.com/frousselet/cairn) [![GitHub_Stars](https://img.shields.io/github/stars/frousselet/cairn?style=social&color=white)](https://github.com/frousselet/cairn/stargazers)
 - **License**: AGPL-3.0 | **Stack**: TypeScript, NestJS, React, PostgreSQL, Docker
 - **Focus**: EBIOS RM & ISO 27005 Operational Risk Analysis with MCP Support
 - **Overview**: Modern self-hosted GRC engine implementing French ANSSI EBIOS RM and ISO 27005 standards. Features multi-tier risk registers, asset dependency maps with CIA impact scoring, statutory incident notification timers, public trust centers, and built-in Model Context Protocol (MCP) server endpoints for AI integration.
 
-### 13. [cary-williams/risk-shield](https://github.com/cary-williams/risk-shield) [![GitHub stars](https://img.shields.io/github/stars/cary-williams/risk-shield?style=social&color=white)](https://github.com/cary-williams/risk-shield/stargazers)
+### 13. [cary-williams/risk-shield](https://github.com/cary-williams/risk-shield) [![GitHub_Stars](https://img.shields.io/github/stars/cary-williams/risk-shield?style=social&color=white)](https://github.com/cary-williams/risk-shield/stargazers)
 - **License**: MIT | **Stack**: TypeScript, React, Vite, Tailwind CSS
 - **Focus**: Interactive Web-Based Risk Register & Heat Map Generator
 - **Overview**: Lightweight, client-side web application for generating structured operational risk registers. Calculates inherent vs. residual risk scores, accounts for control effectiveness multipliers, and renders interactive 5x5 color-coded risk heat maps deployable directly via Vercel or GitHub Pages.
 
-### 14. [prashant-fintech/risklab](https://github.com/prashant-fintech/risklab) [![GitHub stars](https://img.shields.io/github/stars/prashant-fintech/risklab?style=social&color=white)](https://github.com/prashant-fintech/risklab/stargazers)
+### 14. [prashant-fintech/risklab](https://github.com/prashant-fintech/risklab) [![GitHub_Stars](https://img.shields.io/github/stars/prashant-fintech/risklab?style=social&color=white)](https://github.com/prashant-fintech/risklab/stargazers)
 - **License**: MIT | **Stack**: Python 3.12+, FastAPI, Streamlit
 - **Focus**: Quantitative Operational Risk & Loss Distribution Approach (LDA)
 - **Overview**: Quantitative financial and operational risk platform. Implements regulatory loss modeling via the Loss Distribution Approach (LDA), fitting severity (Lognormal, Weibull) and frequency (Poisson) distributions. Includes Value-at-Risk (VaR), Expected Shortfall (ES), and operational stress testing.
@@ -173,7 +173,7 @@ Contributions from risk officers, compliance analysts, developers, and researche
    - Include factual descriptions, verifiable licensing, exact starting pricing, and realistic trial limits.
 4. **Sort Appropriately**:
    - SaaS entries must be sorted descending by company size / valuation.
-   - OSS entries must include the social star badge (`style=social&color=white`) linking to `/stargazers` and be sorted descending by stars.
+   - OSS entries must include the social Stars_Badge (`style=social&color=white`) linking to `/stargazers` and be sorted descending by stars.
 5. **Commit and Submit PR**: Submit a descriptive Pull Request detailing your changes.
 
 ---
